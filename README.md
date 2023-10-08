@@ -27,7 +27,7 @@ To use this codebase for Selenium test automation of the PetSmart website, follo
 * WebDriver executables (e.g., ChromeDriver, Firefox GeckoDriver) added to your system's PATH.
 * Import the Project: Import the project into your preferred Integrated Development Environment (IDE), such as IntelliJ IDEA or Eclipse.
 
-4. **Run Test Cases:** Open and run the test cases located in the ca.petsmart.webPages package. For example:
+3.**Run Test Cases:** Open and run the test cases located in the ca.petsmart.webPages package. For example:
 
 
 `public class LoginTest extends BasePageTest {
@@ -37,7 +37,7 @@ To use this codebase for Selenium test automation of the PetSmart website, follo
     }
 }`
 
-5. **Customize and Extend:** Modify and extend the test cases as needed for your testing requirements. You can create additional test cases and page object classes to cover various scenarios.
+4.**Customize and Extend:** Modify and extend the test cases as needed for your testing requirements. You can create additional test cases and page object classes to cover various scenarios.
 
 ### Test Cases
 The test cases provided in this repository cover the following scenarios:
